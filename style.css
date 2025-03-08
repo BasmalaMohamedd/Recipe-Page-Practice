@@ -11,6 +11,7 @@ main{
     margin:auto;
     padding: 2rem;
     margin-top: 4rem;
+    color:hsl(30, 10%, 34%);
 }
 
 main img{
@@ -21,6 +22,7 @@ main img{
 .pageTitle{
     font-size: xxx-large;
     font-weight: 600;
+    color:hsl(24, 5%, 18%);
 }
 
 .title{
@@ -44,3 +46,18 @@ main img{
 
 }
 
+
+
+.nutritiontable{
+    min-width: 100%;
+
+}
+
+.nutritiontable .leftcell{
+    color:hsl(14, 45%, 36%);
+    font-weight: bold;
+}
+
+strong{
+    color:hsl(30, 10%, 34%);
+}
