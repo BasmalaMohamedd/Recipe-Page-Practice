@@ -1,0 +1,46 @@
+body{
+    background-color: hsl(30, 54%, 90%);
+    align-items: center;
+}
+
+main{
+
+    width: 600px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 2rem;
+    margin:auto;
+    padding: 2rem;
+    margin-top: 4rem;
+}
+
+main img{
+    width:inherit;
+    border-radius: 1rem;
+}
+
+.pageTitle{
+    font-size: xxx-large;
+    font-weight: 600;
+}
+
+.title{
+    font-size: x-large;
+    font-weight: 600;
+    color:hsl(14, 45%, 36%);
+    
+}
+
+.preparationTime{
+    background-color: hsl(330, 100%, 98%);
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    
+}
+
+.preparationTime .title{
+    font-size: large;
+    font-weight: 600;
+    color:hsl(332, 51%, 32%);
+
+}
+
